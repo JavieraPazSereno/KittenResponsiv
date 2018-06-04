@@ -1,7 +1,7 @@
     #fondo {
     background:url(fondo3.jpg) no-repeat 0 0;
     background-size: 100%;
-}
+    }
 
     #picture {
     width: 500px;
@@ -12,7 +12,7 @@
     float: inherit;
     display:block;
     margin:auto;
-}
+   }
 
    
     @media screen and (max-width:900px){
