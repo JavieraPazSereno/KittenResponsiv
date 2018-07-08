@@ -1,3 +1,3 @@
 Para ver el ejercicio pincha el link.
 
-https://github.com/JavieraPazSereno/KittenResponsiv.git
+https://javierapazsereno.github.io/KittenResponsiv/
